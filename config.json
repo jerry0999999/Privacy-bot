@@ -1,0 +1,27 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "updatePresence": true,
+        "listenTyping": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "selfListenEvent": true,
+        "autoMarkDelivery": false,
+        "autoReconnect": true
+    },
+    "OWNERNAME": "Arhan Ali",
+    "BIO": "This Bot is Remade By Arhan Ali",
+    "language": "en",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "BOTNAME": "Arhan Bot",
+    "PREFIX": "!",
+    "ADMINBOT": [
+        "100052951819398"
+    ],
+    "NDH": []
+}
